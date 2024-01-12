@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ToyinKezia
 - 👀 I am passionate about smart agriculture, food, health, renewable energy and sustainability policies. 
-- 🌱 I’m currently learning how to build database using SQL, interactive dashboards, and data analysis using python, SQL, and Stata
+- 🌱 I’m currently learning how to build database using SQL, interactive dashboards, and data analysis using Python, SQL, and Stata
 - 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me via email on toyintuyi93@gmsil.com
+- 📫 You can reach me via email on toyintuyi93@gmail.com
 
 
 <!---
